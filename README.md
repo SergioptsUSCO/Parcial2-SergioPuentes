@@ -45,7 +45,6 @@ parqueadero/
 │
 ├── src/main/resources/
 │   ├── static/        # Frontend (HTML, CSS, JS)
-│   ├── templates/     # (opcional si usas Thymeleaf)
 │   └── application.properties
 ```
 
